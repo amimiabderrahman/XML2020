@@ -1,0 +1,184 @@
+<edt groupe="3" année="2007">
+<script id="tinyhippos-injected"/>
+<liste_salles>
+<salle idsalle="s110" capacite="20" type_salle="TD"/>
+<salle idsalle="i019" capacite="36" type_salle="TP"/>
+<salle idsalle="s24" capacite="30" type_salle="TD"/>
+<salle idsalle="s210" capacite="42" type_salle="TD"/>
+<salle idsalle="i012" capacite="24" type_salle="TP"/>
+<salle idsalle="i040" capacite="36" type_salle="TP"/>
+<salle idsalle="s211" capacite="36" type_salle="TD"/>
+</liste_salles>
+<liste_profs>
+<prof idprof="p243">
+<nom>Durant</nom>
+<prenom>Max</prenom>
+<dpt>Informatique</dpt>
+<tel>0252125546</tel>
+</prof>
+<prof idprof="p562">
+<nom>Fabriol</nom>
+<prenom>Jean-Pierre</prenom>
+<dpt>Mathématiques</dpt>
+<tel>0252125487</tel>
+</prof>
+<prof idprof="p377">
+<nom>Hadirent</nom>
+<prenom>Jucien</prenom>
+<dpt>Informatique</dpt>
+<tel>0252125546</tel>
+</prof>
+</liste_profs>
+<types_creneaux>
+<plage ordre="c1">
+<hdeb>08:00:00</hdeb>
+<hfin>09:20:00</hfin>
+</plage>
+<plage ordre="c2">
+<hdeb>09:30:00</hdeb>
+<hfin>10:50:00</hfin>
+</plage>
+<plage ordre="c3">
+<hdeb>11:00:00</hdeb>
+<hfin>12:20:00</hfin>
+</plage>
+<plage ordre="c5">
+<hdeb>14:00:00</hdeb>
+<hfin>15:20:00</hfin>
+</plage>
+<plage ordre="c6">
+<hdeb>15:30:00</hdeb>
+<hfin>16:50:00</hfin>
+</plage>
+<plage ordre="c7">
+<hdeb>17:00:00</hdeb>
+<hfin>18:20:00</hfin>
+</plage>
+<plage ordre="c8">
+<hdeb>18:30:00</hdeb>
+<hfin>19:50:00</hfin>
+</plage>
+</types_creneaux>
+<liste_semaines>
+<semaine num_semaine="s12">
+<jour nomjour="lu" njour="19" mois="03">
+<creneau nplage="c2" nsalle="s24" nprof="p243">
+<type>C</type>
+<matiere>Applis Prog XML</matiere>
+</creneau>
+<creneau nplage="c5" nsalle="s110" nprof="p243">
+<type>TD</type>
+<matiere>Applis Prog XML</matiere>
+</creneau>
+<creneau nplage="c6" nsalle="s110" nprof="p243">
+<type>TD</type>
+<matiere>Applis Prog XML</matiere>
+</creneau>
+</jour>
+<jour nomjour="me" njour="21" mois="03">
+<creneau nplage="c1" nsalle="i019" nprof="p377">
+<type>TP</type>
+<matiere>Projet PHP</matiere>
+</creneau>
+<creneau nplage="c2" nsalle="i019" nprof="p377">
+<type>TP</type>
+<matiere>Projet PHP</matiere>
+</creneau>
+<creneau nplage="c3" nsalle="i019" nprof="p243">
+<type>TP</type>
+<matiere>Projet XML</matiere>
+</creneau>
+<creneau nplage="c5" nsalle="s24">
+<matiere>CETE : carto</matiere>
+</creneau>
+</jour>
+<jour nomjour="je" njour="22" mois="03">
+<creneau nplage="c2" nsalle="i019" nprof="p243">
+<type>TP</type>
+<matiere>Projet XML</matiere>
+</creneau>
+<creneau nplage="c3" nsalle="i019" nprof="p243">
+<type>TP</type>
+<matiere>Projet XML</matiere>
+</creneau>
+</jour>
+<jour nomjour="ve" njour="23" mois="03">
+<creneau nplage="c1" nsalle="s110" nprof="p243">
+<type>C</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+<creneau nplage="c2" nsalle="s110" nprof="p243">
+<type>TD</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+<creneau nplage="c5" nsalle="i012" nprof="p243">
+<type>TP</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+</jour>
+</semaine>
+<semaine num_semaine="s13">
+<jour nomjour="lu" njour="26" mois="03">
+<creneau nsalle="s110" nplage="c5" nprof="p243">
+<type>TD</type>
+<matiere>Applis PROG XML</matiere>
+</creneau>
+<creneau nsalle="i012" nplage="c6" nprof="p243">
+<type>TP</type>
+<matiere>Applis PROG XML</matiere>
+</creneau>
+<creneau nsalle="i012" nplage="c7" nprof="p243">
+<type>TP</type>
+<matiere>Applis PROG XML</matiere>
+</creneau>
+</jour>
+<jour nomjour="ma" njour="27" mois="03">
+<creneau nsalle="i019" nplage="c5" nprof="p377">
+<type>TP</type>
+<matiere>J2EE</matiere>
+</creneau>
+<creneau nsalle="i019" nplage="c6" nprof="p377">
+<type>TP</type>
+<matiere>J2EE</matiere>
+</creneau>
+<creneau nsalle="i019" nplage="c7" nprof="p377">
+<type>TP</type>
+<matiere>J2EE</matiere>
+</creneau>
+</jour>
+<jour nomjour="me" njour="28" mois="03">
+<creneau nsalle="i019" nplage="c2" nprof="p243">
+<type>TP</type>
+<matiere>Projet XML</matiere>
+</creneau>
+<creneau nsalle="i019" nplage="c3" nprof="p243">
+<type>TP</type>
+<matiere>Projet XML</matiere>
+</creneau>
+<creneau nsalle="s110" nplage="c5">
+<matiere>ZOPE</matiere>
+</creneau>
+<creneau nsalle="s110" nplage="c6">
+<matiere>ZOPE</matiere>
+</creneau>
+<creneau nsalle="s211" nplage="c7" nprof="p243">
+<matiere>Dialectes XML</matiere>
+</creneau>
+</jour>
+<jour nomjour="ve" njour="30" mois="03">
+<creneau nplage="c1" nsalle="s110" nprof="p243">
+<type>C</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+<creneau nplage="c2" nsalle="s110" nprof="p243">
+<type>TD</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+<creneau nplage="c5" nsalle="s211" nprof="p243">
+<type>TD</type>
+<matiere>Dialectes XML</matiere>
+</creneau>
+</jour>
+</semaine>
+</liste_semaines>
+</edt>

@@ -1,0 +1,17 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="boutique.xsl"?>
+<boutique>
+  <telephone>
+    <marque>Samsung</marque>
+    <modele>Galaxy S3</modele>
+  </telephone>
+  <telephone>
+    <marque>Apple</marque>
+    <modele>iPhone 4</modele>
+  </telephone>
+  <telephone>
+    <marque>Nokia</marque>
+    <modele>Lumia 800</modele>
+  </telephone>
+</boutique>
+

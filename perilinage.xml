@@ -1,0 +1,24 @@
+<perilinages>
+  <perilinage annee="2018">
+    <perilin num="p1" sexe="M" nationnalité="marocaine" age="56">
+      	<nom>Alaoui</nom>
+      	<prenom> Amine</prenom>
+      	<dossier_medical groupe="O+">
+      			<maladie>hypertension</maladie>
+        </dossier_medical>
+     </perilin>
+   	 <perilin num="p2" sexe="F" nationnalité="Libanaise" age="40" idaccompagnateur="P1234">
+        <nom>Talat</nom>
+     	<prenom> Sara</prenom>
+      	<dossier_medical groupe="A+">
+     		<enceinte semaine="4"/>
+        </dossier_medical>
+     </perilin>
+     <perilin num="3" sexe="H" nationnalité="egypien" age="45">
+        <nom>madbouli</nom>
+      	<prenom> yassir</prenom>
+      	<dossier_medical groupe="B+">
+        </dossier_medical>
+     </perilin>
+       </perilinage>
+ </perilinages>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="mp3.xsl"?>
+compilation
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="mp3.xsl"?>
+<compilation>
+    <mp3 id="1">
+        <titre>Foule sentimentale</titre>
+        <artiste>Alain Souchon</artiste>
+    </mp3>
+    <mp3 id="2">
+        <titre>Solaar pleure</titre>
+        <artiste>MC Solaar</artiste>
+    </mp3>
+    <mp3 id="3">
+        <titre>Le baiser</titre>
+         <artiste>Alain Souchon</artiste>
+     </mp3>
+    <mp3 id="4">
+        <titre>Pourtant</titre>
+        <artiste>Vanessa Paradis</artiste>
+    </mp3>
+    <mp3 id="5">
+        <titre>Chambre avec vue</titre>
+        <artiste>Henri Salvador</artiste>
+    </mp3>
+</compilation>

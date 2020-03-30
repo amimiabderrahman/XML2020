@@ -1,0 +1,34 @@
+<edition nom="J'ai lu">
+<script id="tinyhippos-injected"/>
+<!--  Les auteurs  -->
+<auteur no="a01" nom="Éric Holder" pays="France"/>
+<auteur no="a02" nom="Winston Groom" pays="États Unis"/>
+<auteur no="a03" nom="Stephen King" pays="États Unis"/>
+<auteur no="a04" nom="Isaac Asimov" pays="Russie"/>
+<!--  Les ouvrages  -->
+<livre annee="2002" reference="l7301">
+<titre>Hongroise</titre>
+<ref-auteur ref="a01"/>
+</livre>
+<livre annee="1986" reference="l3816">
+<titre>Forest Gump</titre>
+<ref-auteur ref="a02"/>
+</livre>
+<livre annee="1996" reference="l5157">
+<titre>La ligne verte</titre>
+<ref-auteur ref="a03"/>
+</livre>
+<livre annee="1983" reference="l2266">
+<titre>Simetierre</titre>
+<ref-auteur ref="a03"/>
+</livre>
+<livre annee="1964" reference="l542">
+<titre>Un défilé de robots</titre>
+<ref-auteur ref="a04"/>
+</livre>
+<livre annee="1950" reference="l453">
+<titre>I, robot</titre>
+<ref-auteur ref="a04"/>
+</livre>
+<!--  ...  -->
+</edition>
